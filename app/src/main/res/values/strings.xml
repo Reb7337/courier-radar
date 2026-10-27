@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Курьер Радар</string>
+    <string name="service_label">Курьер Радар</string>
+    <string name="service_desc">Читает текст оффера в Uber Driver и Wolt и показывает поверх экрана, выгодный ли заказ. Ничего не нажимает и никуда не отправляет данные.</string>
+</resources>
